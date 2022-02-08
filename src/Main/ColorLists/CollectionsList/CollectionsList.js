@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons"
 import { useState, useEffect } from "react"
-import CollectionLogo from "./CollectionLogo"
+//import CollectionLogo from "./CollectionLogo"
 import CollectionItem from "./CollectionItem"
 import { useSelector } from "react-redux"
 
